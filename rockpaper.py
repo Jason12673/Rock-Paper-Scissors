@@ -1,19 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@Jason12673 
-@googlecodeartist
-googlecodeartist/rock_paper_scissors.py
-Created last week • Report abuse
-Code
-Revisions
-1
-<script src="https://gist.github.com/googlecodeartist/e8677a206f9d4a2219f177233872efcc.js"></script>
-Creating Rock-Paper-Scissors in Python where users can play against any number of AI characters.
-rock_paper_scissors.py
-# Note: implementation only involves 2-D lists.
 import random
 
 options = ['rock', 'paper', 'scissors']
@@ -108,17 +92,3 @@ def rock_paper_scissors():
       game_is_over = True
       
 rock_paper_scissors()
-@Jason12673
-Comment
- 
-Leave a comment
- 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
